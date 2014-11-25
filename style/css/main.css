@@ -1,2 +1,14 @@
+/* Layout*/
 h1, h2, h3, h4, h5, h6 {
   color: #7835bb; }
+
+/*Modules*/
+.post {
+  padding-left: 1em; }
+  .post .post-title {
+    font: 0.8em/1.5 "Helvetica Neue", Helvetica, arial, sans-serif;
+    color: #555;
+    font-size: 1.5em; }
+  .post .post-body {
+    font: 0.8em/1.5 "Helvetica Neue", Helvetica, arial, sans-serif;
+    color: #555; }

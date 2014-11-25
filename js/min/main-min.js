@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".main").load("content/content.html"),$(".more").click(load(function(n){n.preventDefault(),$(".dynamic").load("content/content.html"),$(this).remove()}))});
