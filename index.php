@@ -7,6 +7,7 @@
     <link rel="stylesheet" herf="style/css/main.css" />
     </head>
     <body>
+        <?php include('includes/header.inc.php');?>
         <h1>Lab 8 Demo</h1>
         
         <section class="main">

@@ -5,7 +5,7 @@ $(document).ready(function(){
     $('.main').load('content/content.html');
     
     //add event handler to more link
-    $('.more').click(load(function(e){
+    $('.more').click(.load(function(e){
         e.preventDefault();
        $('.dynamic').load('content/content.html');
          $(this).remove();
